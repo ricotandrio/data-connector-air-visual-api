@@ -1,0 +1,17 @@
+{
+    "timeZone": "Asia/Jakarta",
+    "dependencies": {},
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "dataStudio": {
+      "name": "Connector: Air quality in Indonesia Analysis",
+      "company": "Rico Tandrio",
+      "logoUrl": "/",
+      "addonUrl": "/",
+      "supportUrl": "/",
+      "description": "Connector: Air quality in Indonesia Analysis for Google Looker",
+      "sources": ["CUSTOM_JSON"],
+      "authType": ["NONE"],
+      "feeType": ["FREE"]
+    }
+  }
